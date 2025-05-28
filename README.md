@@ -43,7 +43,7 @@
   <img width="12" /></p>
   <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" /></p>
-  <p><img src="https://learn.microsoft.com/media/learn/certification/badges/mcsa-badge.svg?branch=main" height="50" alt="ms-mcsa logo"  />
+  <p><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg?branch=main" height="50" alt="ms-mcsa logo"  />
   <img width="12" /> https://www.credly.com/users/aline-maia.f41d31a3</p>
 </div>
 
