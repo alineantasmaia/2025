@@ -62,7 +62,7 @@
   <img width="12" /></div>
   <div><p></p></div>
 
-  <div>img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" /></div>
   <div><p>https://www.figma.com/team_invite/redeem/WIWVo1E9pipZn8F0GFIm0D</p></div>
 
