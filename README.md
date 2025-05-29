@@ -10,7 +10,7 @@
   <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" /> https://github.com/alineantasmaia/heroku</p>
   <p><img src="https://camo.githubusercontent.com/158504cceb344a6f215ea4ce9f2577afaeb355ddb1df1c3ad92df94214922f53/68747470733a2f2f7777772e69626d2e636f6d2f636f6e74656e742f64616d2f61646f62652d636d732f696e7374616e612f6d656469615f6c6f676f2f5261626269742e636f6d706f6e656e742e636f6d706c65782d6e61727261746976652d786c2e74733d313639323232313331373636382e706e672f636f6e74656e742f61646f62652d636d732f62722f70742f70726f64756374732f696e7374616e612f737570706f727465642d746563686e6f6c6f676965732f7261626269746d712d6d6f6e69746f72696e672f6a63723a636f6e74656e742f726f6f742f7461626c655f6f665f636f6e74656e74732f626f64792f636f6e74656e745f73656374696f6e5f7374796c65642f636f6e74656e742d73656374696f6e2d626f64792f636f6d706c65785f6e61727261746976652f6c6f676f696d616765" height="40" alt="dot-net logo"  />
-  <img width="12" /> https://github.com/alineantasmaia/microservice</p>
+  https://github.com/alineantasmaia/microservice</p>
   <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" /></p>
   <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
