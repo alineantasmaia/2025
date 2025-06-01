@@ -48,7 +48,7 @@
 
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" /></div>
-  <div><p></p></div>
+  <div><p>https://github.com/alineantasmaia/vue</p></div>
   
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" /></div>
