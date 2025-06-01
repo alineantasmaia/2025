@@ -60,7 +60,7 @@
 
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" /></div>
-  <div><p></p></div>
+  <div><p>https://github.com/alineantasmaia/siteReact</p></div>
 
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" /></div>
