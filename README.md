@@ -36,7 +36,7 @@
 
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" /></div>
-  <div><p></p></div>
+  <div><p>https://github.com/alineantasmaia/kubernetes</p></div>
 
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" /></div>
